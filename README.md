@@ -15,4 +15,9 @@ Criar o esquema conceitual para o contexto de oficina com base na narrativa abai
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+## Diagrama EER
 
+<div align="center">
+<img src="https://github.com/RicardoHirai/Projeto_BD-Oficina_Mecanica/blob/main/Proj_BD-Oficina_Mecanica.png">
+ </div>
+ 
